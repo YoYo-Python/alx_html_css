@@ -20,18 +20,6 @@ The website features a hero section with a bold call-to-action, engaging typogra
 
 ---
 
-## 🖼️ Screenshots
-
-### Hero Section
-
-![Hero Section](./assets/hero-section.png)
-
-### Instructors Section
-
-![Instructors Section](./assets/instructors-section.png)
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5**
