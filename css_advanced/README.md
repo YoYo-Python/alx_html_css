@@ -1,4 +1,4 @@
-# alx_html_css# 😁 Get Schooled – Smiles, Grins & Laughs
+# 😁 Get Schooled – Smiles, Grins & Laughs
 
 ![Website Preview](./assets/preview.png)
 
